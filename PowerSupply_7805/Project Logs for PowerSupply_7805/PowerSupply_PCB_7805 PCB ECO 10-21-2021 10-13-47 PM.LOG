@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetCON1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-2
+Added Component: Designator=D1(DO-41)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Room: Name=SCH_7805

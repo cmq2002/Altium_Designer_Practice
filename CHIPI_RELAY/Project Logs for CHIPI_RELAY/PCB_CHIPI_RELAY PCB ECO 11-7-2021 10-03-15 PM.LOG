@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NC Pin=P1-1
+Removed Pin From Net: NetName=NO Pin=P1-3
+Added Pin To Net: NetName=NO Pin=P1-1
+Added Pin To Net: NetName=NC Pin=P1-3
+Added Room: Name=SCH_CHIPI_RELAY
